@@ -10,8 +10,8 @@ Component Library: Developed and documented UI components using Storybook.
 
 This project demonstrates modern front-end development practices and responsive design principles, perfect for scalable and user-friendly web applications.
 
-<img src="dashboard-screenshot.png" alt="Screenshot of the dashboard" width="600" />
+<img src="dashboadlightmode.PNG" alt="Screenshot of the dashboard" width="600" />
 
-<img src="dashboard-screenshot.png" alt="Screenshot of the dashboard" width="600" />
+<img src="dashboad2.PNG" alt="Screenshot of the dashboard" width="600" />
 
 
